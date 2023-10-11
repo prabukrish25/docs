@@ -3,3 +3,7 @@ marnod
 test
 alpha
 beta
+arr
+best
+cat
+dog
